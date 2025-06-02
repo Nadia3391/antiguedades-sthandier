@@ -1,0 +1,14 @@
+# Retrospectiva del equipo - Sprint Final
+
+## 🟢 Lo que funcionó bien
+- División clara de componentes
+- Uso de Tailwind facilitó el diseño responsivo
+- Comunicación efectiva entre integrantes
+
+## 🔴 Lo que se puede mejorar
+- Mejor integración con un CMS real
+- Optimizar imágenes desde el inicio
+
+## 🛠 Plan de Acción
+- Usar Strapi o Sanity como CMS real en próximos proyectos
+- Automatizar compresión de imágenes
